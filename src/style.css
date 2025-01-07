@@ -7,12 +7,14 @@
 	line-height: normal;
 	padding: 0.5rem;
 
+	/* Boilerplate - Optional: for dsiabled or readonly element */
 	&[disabled],
 	&[readonly] {
 		background-color: #eeeeee;
 		color: black;
 		cursor: not-allowed;
 
+		/* Boilerplate - Optional: for dsiabled element */
 		&:is([disabled]) {
 			color: #777777;
 		}
