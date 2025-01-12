@@ -7,6 +7,14 @@
 
 - [field](https://github.com/JamesRobertHugginsNgo/field)
 
+## References
+
+- https://icons.getbootstrap.com
+
+## Utilities
+
+- https://www.fffuel.co/eeencode/
+
 ## Alternate Views
 
 - [View in github](https://github.com/JamesRobertHugginsNgo/field-input)
